@@ -15,7 +15,7 @@ But the dark matter hypothesis assumes scientists know how matter in the sky oug
 
 ### Links
 
- * [搜尋引擎] (https://www.google.com.tw/) 
- * [About 文字來源] (https://www.quantamagazine.org/20161129-verlinde-gravity-dark-matter/) 
- * [Friend] (https://qjtgkuro.github.io/myrepo/)
+ * [搜尋引擎](https://www.google.com.tw/) 
+ * [About 文字來源](https://www.quantamagazine.org/20161129-verlinde-gravity-dark-matter/) 
+ * [Friend](https://qjtgkuro.github.io/myrepo/)
 - - -
