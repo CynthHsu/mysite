@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![avatar](avatar.jpg)
+![avatar](dawn.jpg)
 
 # Cynthia Hsu
 
